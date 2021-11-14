@@ -1,2 +1,2 @@
-# laraveltugas7
+# laravelkedua
 pemograman internet lanjut
